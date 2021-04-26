@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.mainbox{
+    
+    background-color: blue;
+    border-radius: 3%;
+    position: absolute;
+    left: 38vw;
+    bottom: 8vh;
+    box-shadow: #00000099 0px 0px 19px 2px;
+    width: 45vmin;
+    height: 20vmax;
+    
+}
+.box{
+    background-color: white;
+    width: 44.7vmin;
+    height: 7vmax;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.random{
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(255, 255, 255);
+    color: teal;
+   
+    font-size: 30px;
+    font-family: cursive;
+    padding: 10px;
+    box-shadow: #00000099 0px 0px 19px 2px;
+
+}
+
